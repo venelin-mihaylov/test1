@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Users\venel\scoop\apps\nodejs-lts\current\node.exe C:\Users\venel\scoop\apps\yarn\current\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\venel\scoop\apps\nodejs-lts\current\bin;C:\Users\venel\scoop\apps\nodejs-lts\current;C:\Users\venel\scoop\apps\yarn\current\Yarn\bin;C:\Users\venel\scoop\apps\yarn\current\global\node_modules\.bin;C:\Users\venel\scoop\shims;C:\Users\venel\AppData\Local\Microsoft\WindowsApps;C:\Users\venel\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\venel\projects\test\package.json: Unexpected string in JSON at position 85
+      at JSON.parse (<anonymous>)
+      at C:\Users\venel\scoop\apps\yarn\1.22.4\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\venel\scoop\apps\yarn\1.22.4\Yarn\lib\cli.js:310:30)
+      at C:\Users\venel\scoop\apps\yarn\1.22.4\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
